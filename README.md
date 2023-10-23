@@ -8,7 +8,8 @@
 
 ## 클론 웹사이트 스크린 샷 링크
 클론코딩페이지 url :https://jinzeroo.github.io/pf3-1/
-![image](https://github.com/jinzeroo/pf3-1/assets/142555222/daa3f8ba-9562-4895-9f0a-3106ec49f22c)
+![image](https://github.com/jinzeroo/pf3-1/assets/142555222/c404e54c-1132-48d6-910d-5f3337279686)
+
 
 
 ## 기술 스택
